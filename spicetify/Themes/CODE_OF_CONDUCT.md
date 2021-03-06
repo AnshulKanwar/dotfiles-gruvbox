@@ -1,0 +1,1 @@
+/usr/share/spicetify-cli/Themes/CODE_OF_CONDUCT.md

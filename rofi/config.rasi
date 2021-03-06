@@ -1,0 +1,11 @@
+configuration {
+    display-drun: " Apps";
+    display-run: " Packages";
+    display-window: "缾 Windows";
+    display-ssh: " Ssh";
+    sidebar-mode: false;
+    show-icons: true;
+    font: "JetBrainsMono Nerd Font 10";
+    theme: "gruvbox";
+}
+
